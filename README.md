@@ -68,9 +68,8 @@ PointerAlignment: Left
 
 Our Go guidelines are heavily based on the [Effective Go Article](https://golang.org/doc/effective_go.html),
 with some exceptions:
-  - As stated in the [General Coding Guidelines](### General Coding Guidelines), identifier
-    names should be descriptive and never acronyms or one character long. Its common for go
-    code to use acronyms for receiver function parameters, **don't do that**.
+  - As stated before, identifie, names should be descriptive and never acronyms or one character long.
+    It's common for go code to use acronyms for receiver function parameters, **don't do that**.
   - Since go indentation is one tab, following lines of code should be in 
     every go containing repositories `.editorconfig`:
       
