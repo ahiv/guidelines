@@ -31,7 +31,7 @@ Following languages and technologies are part of our tech stack:
 ### General Coding Guidelines
 
 Some rules apply to all the languages in our stack
- - Name identifires descriptively and never use acronyms or single characters (Not even in loops).
+ - Name identifiers descriptively and never use acronyms or single characters (Not even in loops).
  - Aim for readability and split large procedures (15 lines should be the limit).
  - Comment your intent, not what the code is doing. The code should explain itself.
  - Prefer immutability and side-effect free functions.
