@@ -36,6 +36,13 @@ Some rules apply to all the languages in our stack
  - Comment your intent, not what the code is doing. The code should explain itself.
  - Prefer immutability and side-effect free functions.
  - Write code for the reader.
+ 
+Ahiv uses a MIT style license, following code should be the header of every source file:
+```
+// Copyright 2019 Ahiv Authors. All rights reserved. Use of this source  code  
+// is governed by a MIT-style license that can be found in the LICENSE file.
+```
+If the language does not support C++ style block comments, use the languages default style of comments.
 
 ### C++ Coding Guidelines
 
